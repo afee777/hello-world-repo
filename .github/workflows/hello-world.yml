@@ -1,4 +1,4 @@
-name: My First Workflow
+name: Hello World
 
 on: [push]
 
